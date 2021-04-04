@@ -24,6 +24,7 @@ public class LoginTest {
 		driver.findElement(By.id("identifierId")).sendKeys("aaa@mai.com");
 		driver.findElement(By.id("Password")).sendKeys("sasdasd");
 		//test
+		//test
 		
 	}
 	
